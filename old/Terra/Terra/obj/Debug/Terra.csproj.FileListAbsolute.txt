@@ -1,0 +1,8 @@
+G:\Documents\My Projects\Terra\Terra\bin\Debug\Terra.dll
+G:\Documents\My Projects\Terra\Terra\bin\Debug\Terra.pdb
+G:\Documents\My Projects\Terra\Terra\obj\Debug\ResolveAssemblyReference.cache
+G:\Documents\My Projects\Terra\Terra\obj\Debug\Terra.dll
+G:\Documents\My Projects\Terra\Terra\obj\Debug\Terra.pdb
+G:\Documents\My Projects\Terra\Terra\bin\Debug\NPack.dll
+G:\Documents\My Projects\Terra\Terra\bin\Debug\NPack.pdb
+G:\Documents\My Projects\Terra\Terra\bin\Debug\NPack.xml
